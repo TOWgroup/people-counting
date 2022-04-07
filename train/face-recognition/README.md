@@ -29,7 +29,8 @@ python train.py --train\
                 --no_epochs\
                 --batch_size\
                 --learning_rate\               
-                --losstype 'arcface'\                         
+                --losstype 'arcface'\    
+***Note***: Replace losstype = 'cosface' if you wanna train with cosface
 ```
 
 ## Inference
