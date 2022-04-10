@@ -17,9 +17,9 @@ face-recognition-data ------ trainset ------ Duc ------ img_1.jpg
                      |------ newperson
 ```
 *Prepare data for training*
+Save preprecessed images with file name: face_224x224.npz
 ```python
-python extract_face.py --preprocessing\
-                       --filename face-recognition-data/trainset
+python extract_face.py face_224x224.npz
 ```
 
 ## Training
