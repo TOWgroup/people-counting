@@ -54,10 +54,10 @@ python train.py --plot_his
 python infer.py --filename Vinales.jpg --loss_type arcface
 ```
 
-***Note***: Replace --loss_type = 'cosface' if you wanna train with 'cosface' loss and --filename with other image
+***Note***: Replace --loss_type = 'cosface' if you want to use with 'cosface' loss and --filename with other image
 
 ## Enroll new person
 ```python
 python enroll_newperson.py --loss_type arcface
 ```
-***Note***: Replace --loss_type = 'cosface' if you wanna train with 'cosface' loss
+***Note***: Replace --loss_type = 'cosface' if you want to use with 'cosface' loss
