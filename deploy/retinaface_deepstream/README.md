@@ -1,4 +1,5 @@
 # retinaface_deepstream
+#using deepstream 5.0 ,TensorRT 7.0.0
 #create file  .so
 cd nvdsinfer_customparser/
 make all
