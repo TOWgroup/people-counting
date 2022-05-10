@@ -17,6 +17,7 @@ img_align_celeba ------- img_align_celeba ------- 000001.jpg
 ```
 
 *Attributes in list_attr_celeba.csv file*
+
 ['5_o_Clock_Shadow',
  'Arched_Eyebrows',
  'Attractive',
