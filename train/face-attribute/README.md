@@ -63,7 +63,7 @@ img_align_celeba ------- img_align_celeba ------- 000001.jpg
  
  Load data and split for training
 ```python
-python main.py --filepath path_to_list_attr_celeba.csv --data_process
+python main.py --filepath path_to_dataset/list_attr_celeba.csv --data_process
 ```
 
 ## Training
