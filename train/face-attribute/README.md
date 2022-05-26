@@ -71,7 +71,7 @@ python main.py --filepath path_to_dataset/list_attr_celeba.csv --data_process
 python main.py --train path_to_save_model
 ```
 
-## Testing
+## Prediction
 ```python
 python main.py --pred path_to_save_image_result.png
 ```
